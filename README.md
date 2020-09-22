@@ -1,8 +1,12 @@
 ### Hi there 👋
 <하는것>
+
 simple original wiki (여기엔 안올렸음)
+
 Maplestory Starforce Simul (private, C#)
+
 ★INA 24(html,css,js)
+
 shooting game(C#, 이거도 안올림)
 
 <할 예정>
