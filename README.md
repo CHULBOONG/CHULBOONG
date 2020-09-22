@@ -1,4 +1,13 @@
 ### Hi there 👋
+<하는것>
+simple original wiki (여기엔 안올렸음)
+Maplestory Starforce Simul (private, C#)
+★INA 24(html,css,js)
+shooting game(C#, 이거도 안올림)
+
+<할 예정>
+기존 서버파일로 MapleStory 가상패치 (JAVA)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHULBOONG)](https://github.com/anuraghazra/github-readme-stats)
 
 
