@@ -7,6 +7,8 @@ Maplestory Starforce Simul (private, C#)
 
 ★INA 24(html,css,js)
 
+★MYS_Project(private, python) 삽화 못구하고있음
+
 shooting game(C#, 이거도 안올림)
 
 <할 예정>
