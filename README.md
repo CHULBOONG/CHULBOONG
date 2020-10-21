@@ -1,15 +1,18 @@
 ### Hi there 👋
+
 <하는것>
 
-simple original wiki (여기엔 안올렸음)
+★INA 24(html,css,js) 개인소장용 만화웹툰 밈림봄김삼임틈
+
+★MYS_Project(private, python) 삽화 다시 하는중
+
+simple original wiki (MYSQL, 안올림)
 
 Maplestory Starforce Simul (private, C#)
 
-★INA 24(html,css,js)
+성남시 인명사전 (html,JS,CSS  신상때문에 private)
 
-★MYS_Project(private, python) 삽화 못구하고있음
-
-shooting game(C#, 이거도 안올림)
+Kyaru Run, 테네브리스 맵 shooting game(Unity C#)
 
 <할 예정>
 기존 서버파일로 MapleStory 가상패치 (JAVA)
