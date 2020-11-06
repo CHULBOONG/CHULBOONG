@@ -4,7 +4,7 @@
 
 ★INA 24(html,css,js) 개인소장용 만화웹툰 밈림봄김삼임틈
 
-★MYS_Project(private, python) 삽화 다시 하는중
+★MYS_Project(private, python) 파이썬 게임!
 
 simple original wiki (MYSQL, 안올림)
 
