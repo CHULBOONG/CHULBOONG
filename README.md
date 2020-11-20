@@ -6,6 +6,8 @@
 
 ★MYS_Project(private, python) 파이썬 게임!
 
+★WeatherMan - ChromeApp
+
 simple original wiki (MYSQL, 안올림)
 
 Maplestory Starforce Simul (private, C#)
