@@ -8,6 +8,8 @@
 
 ★WeatherMan - ChromeApp
 
+★Team ASKY
+
 simple original wiki (MYSQL, 안올림)
 
 Maplestory Starforce Simul (private, C#)
