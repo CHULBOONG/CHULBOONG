@@ -2,24 +2,8 @@
 
 <하는것>
 
-★INA 24(html,css,js) 개인소장용 만화웹툰 밈림봄김삼임틈
-
-★MYS_Project(private, python) 파이썬 게임!
-
-★WeatherMan - ChromeApp
-
-★Team ASKY
-
-simple original wiki (MYSQL, 안올림)
-
-Maplestory Starforce Simul (private, C#)
-
-성남시 인명사전 (html,JS,CSS  신상때문에 private)
-
-Kyaru Run, 테네브리스 맵 shooting game(Unity C#)
 
 <할 예정>
-기존 서버파일로 MapleStory 가상패치 (JAVA)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHULBOONG)](https://github.com/anuraghazra/github-readme-stats)
 
