@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <하는것>
-
-
-<할 예정>
+Private로 진행중입니다! 아래에 안뜸
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHULBOONG)](https://github.com/anuraghazra/github-readme-stats)
 
