@@ -3,7 +3,7 @@
 <하는것>
 Private로 진행중입니다! 아래에 안뜸
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHULBOONG&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHULBOONG)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <div align=center>
